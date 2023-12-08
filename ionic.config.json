@@ -1,0 +1,7 @@
+{
+  "name": "pertemuan9-pbo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
